@@ -1,66 +1,214 @@
-Player Sephiroth took 1 stones.
-Current max: 1
-Stones left: 49
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 128
 ---------------------------------------
-Player aaa took 3 stones.
+Player Mr. Second took 2 stones.
+Current max: 2
+Stones left: 126
+---------------------------------------
+Player Zoanna took 1 stones.
+Current max: 2
+Stones left: 125
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 2
+Stones left: 123
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 121
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 2
+Stones left: 119
+---------------------------------------
+Player Zoanna took 3 stones.
 Current max: 3
-Stones left: 46
+Stones left: 116
 ---------------------------------------
-Player Sephiroth took 1 stones.
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 113
+---------------------------------------
+Player Zoanna took 3 stones.
+Current max: 3
+Stones left: 110
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 107
+---------------------------------------
+Player Zoanna took 1 stones.
+Current max: 3
+Stones left: 106
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 103
+---------------------------------------
+Player Zoanna took 3 stones.
+Current max: 3
+Stones left: 100
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 97
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 3
+Stones left: 95
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 92
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 3
+Stones left: 90
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 87
+---------------------------------------
+Player Zoanna took 1 stones.
+Current max: 3
+Stones left: 86
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 83
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 3
+Stones left: 81
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 78
+---------------------------------------
+Player Zoanna took 1 stones.
+Current max: 3
+Stones left: 77
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 74
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 3
+Stones left: 72
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 69
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 3
+Stones left: 67
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 64
+---------------------------------------
+Player Zoanna took 3 stones.
+Current max: 3
+Stones left: 61
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 58
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 3
+Stones left: 56
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 53
+---------------------------------------
+Player Zoanna took 3 stones.
+Current max: 3
+Stones left: 50
+---------------------------------------
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 47
+---------------------------------------
+Player Zoanna took 2 stones.
 Current max: 3
 Stones left: 45
 ---------------------------------------
-Player aaa took 4 stones.
-Current max: 4
-Stones left: 41
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 42
 ---------------------------------------
-Player Sephiroth took 1 stones.
-Current max: 4
+Player Zoanna took 2 stones.
+Current max: 3
 Stones left: 40
 ---------------------------------------
-Player aaa took 5 stones.
-Current max: 5
-Stones left: 35
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 37
 ---------------------------------------
-Player Sephiroth took 1 stones.
-Current max: 5
+Player Zoanna took 3 stones.
+Current max: 3
 Stones left: 34
 ---------------------------------------
-Player aaa took 6 stones.
-Current max: 6
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 31
+---------------------------------------
+Player Zoanna took 3 stones.
+Current max: 3
 Stones left: 28
 ---------------------------------------
-Player Sephiroth took 1 stones.
-Current max: 6
-Stones left: 27
+Player Mr. Second took 3 stones.
+Current max: 3
+Stones left: 25
 ---------------------------------------
-Player aaa took 7 stones.
-Current max: 7
-Stones left: 20
+Player Zoanna took 3 stones.
+Current max: 3
+Stones left: 22
 ---------------------------------------
-Player Sephiroth took 1 stones.
-Current max: 7
+Player Mr. Second took 3 stones.
+Current max: 3
 Stones left: 19
 ---------------------------------------
-Player aaa took 8 stones.
-Current max: 8
-Stones left: 11
----------------------------------------
-Player Sephiroth took 1 stones and used reset.
+Player Zoanna took 3 stones and used reset.
 Current max: 2
+Stones left: 16
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 3
+Stones left: 14
+---------------------------------------
+Player Zoanna took 2 stones and used reset.
+Current max: 2
+Stones left: 12
+---------------------------------------
+Player Mr. Second took 2 stones.
+Current max: 3
 Stones left: 10
 ---------------------------------------
-Player aaa took 1 stones.
-Current max: 8
-Stones left: 9
----------------------------------------
-Player Sephiroth took 1 stones.
-Current max: 8
+Player Zoanna took 2 stones and used reset.
+Current max: 2
 Stones left: 8
 ---------------------------------------
-Player aaa took 9 stones.
-Current max: 9
+Player Mr. Second took 2 stones.
+Current max: 3
+Stones left: 6
+---------------------------------------
+Player Zoanna took 2 stones and used reset.
+Current max: 2
+Stones left: 4
+---------------------------------------
+Player Mr. Second took 1 stones.
+Current max: 3
+Stones left: 3
+---------------------------------------
+Player Zoanna took 3 stones.
+Current max: 3
 Stones left: 0
 ---------------------------------------
 Game over
-Player aaa won the game! Congrats!
+Player Zoanna won the game! Congrats!
