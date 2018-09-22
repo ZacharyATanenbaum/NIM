@@ -3,6 +3,7 @@
 
 import atexit
 import time
+from random import randint
 
 from client import Client
 
@@ -30,9 +31,12 @@ def my_algo(game_state):
 
     """
 
-    time.sleep(1)
+#    time.sleep(1)
 
     if game_state:
+
+        return randint(1, 3), False
+
         if game_state['current_max'] >= game_state['stones_left']:
             return game_state['stones_left'], False
 

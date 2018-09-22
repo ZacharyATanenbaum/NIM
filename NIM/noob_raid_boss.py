@@ -33,7 +33,7 @@ def my_algo(game_state):
 
     print(game_state)
 
-    time.sleep(0.1)
+#    time.sleep(0.1)
 
     if game_state:
         if game_state['stones_left'] < 10:

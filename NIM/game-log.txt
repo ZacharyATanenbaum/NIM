@@ -1,16 +1,2344 @@
+Player Zoanna took 1 stones.
+Current max: 1
+Stones left: 999
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 1
+Stones left: 998
+---------------------------------------
 Player Zoanna took 2 stones.
 Current max: 2
-Stones left: 128
+Stones left: 996
 ---------------------------------------
-Player Mr. Second took 2 stones.
+Player Sephiroth took 1 stones.
 Current max: 2
-Stones left: 126
+Stones left: 995
 ---------------------------------------
 Player Zoanna took 1 stones.
 Current max: 2
-Stones left: 125
+Stones left: 994
 ---------------------------------------
-Player Mr. Second took 2 stones.
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 993
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 991
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 990
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 988
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 987
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 985
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 984
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 982
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 981
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 979
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 978
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 976
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 975
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 973
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 972
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 970
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 969
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 967
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 966
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 964
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 963
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 961
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 960
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 958
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 957
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 955
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 954
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 952
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 951
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 949
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 948
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 946
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 945
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 943
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 942
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 940
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 939
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 937
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 936
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 934
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 933
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 931
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 930
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 928
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 927
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 925
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 924
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 922
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 921
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 919
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 918
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 916
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 915
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 913
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 912
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 910
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 909
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 907
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 906
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 904
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 903
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 901
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 900
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 898
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 897
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 895
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 894
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 892
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 891
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 889
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 888
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 886
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 885
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 883
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 882
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 880
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 879
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 877
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 876
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 874
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 873
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 871
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 870
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 868
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 867
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 865
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 864
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 862
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 861
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 859
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 858
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 856
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 855
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 853
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 852
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 850
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 849
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 847
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 846
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 844
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 843
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 841
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 840
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 838
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 837
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 835
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 834
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 832
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 831
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 829
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 828
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 826
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 825
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 823
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 822
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 820
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 819
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 817
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 816
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 814
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 813
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 811
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 810
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 808
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 807
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 805
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 804
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 802
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 801
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 799
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 798
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 796
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 795
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 793
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 792
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 790
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 789
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 787
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 786
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 784
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 783
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 781
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 780
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 778
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 777
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 775
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 774
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 772
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 771
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 769
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 768
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 766
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 765
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 763
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 762
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 760
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 759
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 757
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 756
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 754
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 753
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 751
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 750
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 748
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 747
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 745
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 744
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 742
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 741
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 739
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 738
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 736
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 735
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 733
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 732
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 730
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 729
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 727
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 726
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 724
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 723
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 721
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 720
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 718
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 717
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 715
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 714
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 712
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 711
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 709
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 708
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 706
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 705
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 703
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 702
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 700
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 699
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 697
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 696
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 694
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 693
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 691
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 690
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 688
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 687
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 685
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 684
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 682
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 681
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 679
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 678
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 676
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 675
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 673
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 672
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 670
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 669
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 667
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 666
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 664
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 663
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 661
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 660
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 658
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 657
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 655
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 654
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 652
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 651
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 649
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 648
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 646
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 645
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 643
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 642
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 640
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 639
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 637
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 636
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 634
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 633
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 631
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 630
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 628
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 627
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 625
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 624
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 622
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 621
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 619
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 618
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 616
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 615
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 613
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 612
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 610
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 609
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 607
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 606
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 604
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 603
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 601
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 600
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 598
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 597
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 595
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 594
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 592
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 591
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 589
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 588
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 586
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 585
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 583
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 582
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 580
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 579
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 577
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 576
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 574
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 573
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 571
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 570
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 568
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 567
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 565
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 564
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 562
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 561
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 559
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 558
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 556
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 555
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 553
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 552
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 550
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 549
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 547
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 546
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 544
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 543
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 541
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 540
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 538
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 537
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 535
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 534
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 532
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 531
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 529
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 528
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 526
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 525
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 523
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 522
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 520
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 519
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 517
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 516
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 514
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 513
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 511
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 510
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 508
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 507
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 505
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 504
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 502
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 501
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 499
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 498
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 496
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 495
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 493
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 492
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 490
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 489
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 487
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 486
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 484
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 483
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 481
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 480
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 478
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 477
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 475
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 474
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 472
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 471
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 469
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 468
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 466
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 465
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 463
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 462
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 460
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 459
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 457
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 456
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 454
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 453
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 451
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 450
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 448
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 447
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 445
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 444
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 442
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 441
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 439
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 438
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 436
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 435
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 433
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 432
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 430
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 429
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 427
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 426
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 424
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 423
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 421
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 420
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 418
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 417
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 415
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 414
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 412
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 411
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 409
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 408
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 406
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 405
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 403
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 402
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 400
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 399
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 397
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 396
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 394
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 393
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 391
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 390
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 388
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 387
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 385
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 384
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 382
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 381
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 379
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 378
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 376
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 375
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 373
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 372
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 370
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 369
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 367
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 366
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 364
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 363
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 361
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 360
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 358
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 357
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 355
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 354
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 352
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 351
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 349
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 348
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 346
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 345
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 343
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 342
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 340
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 339
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 337
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 336
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 334
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 333
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 331
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 330
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 328
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 327
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 325
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 324
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 322
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 321
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 319
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 318
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 316
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 315
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 313
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 312
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 310
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 309
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 307
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 306
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 304
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 303
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 301
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 300
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 298
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 297
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 295
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 294
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 292
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 291
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 289
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 288
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 286
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 285
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 283
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 282
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 280
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 279
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 277
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 276
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 274
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 273
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 271
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 270
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 268
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 267
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 265
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 264
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 262
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 261
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 259
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 258
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 256
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 255
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 253
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 252
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 250
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 249
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 247
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 246
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 244
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 243
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 241
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 240
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 238
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 237
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 235
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 234
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 232
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 231
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 229
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 228
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 226
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 225
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 223
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 222
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 220
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 219
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 217
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 216
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 214
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 213
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 211
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 210
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 208
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 207
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 205
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 204
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 202
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 201
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 199
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 198
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 196
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 195
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 193
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 192
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 190
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 189
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 187
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 186
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 184
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 183
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 181
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 180
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 178
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 177
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 175
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 174
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 172
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 171
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 169
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 168
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 166
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 165
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 163
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 162
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 160
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 159
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 157
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 156
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 154
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 153
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 151
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 150
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 148
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 147
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 145
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 144
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 142
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 141
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 139
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 138
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 136
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 135
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 133
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 132
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 130
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 129
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 127
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 126
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 124
+---------------------------------------
+Player Sephiroth took 1 stones.
 Current max: 2
 Stones left: 123
 ---------------------------------------
@@ -18,191 +2346,311 @@ Player Zoanna took 2 stones.
 Current max: 2
 Stones left: 121
 ---------------------------------------
-Player Mr. Second took 2 stones.
+Player Sephiroth took 1 stones.
 Current max: 2
-Stones left: 119
+Stones left: 120
 ---------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
-Stones left: 116
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 118
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
-Stones left: 113
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 117
 ---------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
-Stones left: 110
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 115
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
-Stones left: 107
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 114
 ---------------------------------------
-Player Zoanna took 1 stones.
-Current max: 3
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 112
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 111
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 109
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 108
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 106
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 105
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 103
 ---------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 102
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 100
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 99
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 97
 ---------------------------------------
-Player Zoanna took 2 stones.
-Current max: 3
-Stones left: 95
----------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
-Stones left: 92
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 96
 ---------------------------------------
 Player Zoanna took 2 stones.
-Current max: 3
+Current max: 2
+Stones left: 94
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 93
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 91
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 90
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 88
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 87
 ---------------------------------------
-Player Zoanna took 1 stones.
-Current max: 3
-Stones left: 86
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 85
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
-Stones left: 83
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 84
 ---------------------------------------
 Player Zoanna took 2 stones.
-Current max: 3
+Current max: 2
+Stones left: 82
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 81
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 79
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 78
 ---------------------------------------
-Player Zoanna took 1 stones.
-Current max: 3
-Stones left: 77
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 76
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
-Stones left: 74
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 75
 ---------------------------------------
 Player Zoanna took 2 stones.
-Current max: 3
+Current max: 2
+Stones left: 73
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 72
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 70
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 69
 ---------------------------------------
 Player Zoanna took 2 stones.
-Current max: 3
+Current max: 2
 Stones left: 67
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 66
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 64
 ---------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 63
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 61
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 60
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 58
 ---------------------------------------
-Player Zoanna took 2 stones.
-Current max: 3
-Stones left: 56
----------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
-Stones left: 53
----------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
-Stones left: 50
----------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
-Stones left: 47
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 57
 ---------------------------------------
 Player Zoanna took 2 stones.
-Current max: 3
+Current max: 2
+Stones left: 55
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 54
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 52
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 51
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 49
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 48
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 46
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 45
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Zoanna took 2 stones.
+Current max: 2
+Stones left: 43
+---------------------------------------
+Player Sephiroth took 1 stones.
+Current max: 2
 Stones left: 42
 ---------------------------------------
 Player Zoanna took 2 stones.
-Current max: 3
+Current max: 2
 Stones left: 40
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 39
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 37
 ---------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 36
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 34
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 33
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 31
 ---------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 30
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 28
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 27
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 25
 ---------------------------------------
-Player Zoanna took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 24
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 22
 ---------------------------------------
-Player Mr. Second took 3 stones.
-Current max: 3
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 21
+---------------------------------------
+Player Zoanna took 2 stones.
+Current max: 2
 Stones left: 19
 ---------------------------------------
-Player Zoanna took 3 stones and used reset.
+Player Sephiroth took 1 stones.
+Current max: 2
+Stones left: 18
+---------------------------------------
+Player Zoanna took 2 stones and used reset.
 Current max: 2
 Stones left: 16
 ---------------------------------------
-Player Mr. Second took 2 stones.
-Current max: 3
-Stones left: 14
+Player Sephiroth took 1 stones and used reset.
+Current max: 2
+Stones left: 15
 ---------------------------------------
-Player Zoanna took 2 stones and used reset.
+Player Zoanna took 3 stones and used reset.
 Current max: 2
 Stones left: 12
 ---------------------------------------
-Player Mr. Second took 2 stones.
-Current max: 3
-Stones left: 10
+Player Sephiroth took 1 stones and used reset.
+Current max: 2
+Stones left: 11
 ---------------------------------------
-Player Zoanna took 2 stones and used reset.
+Player Zoanna took 3 stones and used reset.
 Current max: 2
 Stones left: 8
 ---------------------------------------
-Player Mr. Second took 2 stones.
-Current max: 3
-Stones left: 6
+Player Sephiroth took 1 stones and used reset.
+Current max: 2
+Stones left: 7
 ---------------------------------------
-Player Zoanna took 2 stones and used reset.
+Player Zoanna took 3 stones and used reset.
 Current max: 2
 Stones left: 4
 ---------------------------------------
-Player Mr. Second took 1 stones.
+Player Sephiroth took 1 stones.
 Current max: 3
 Stones left: 3
 ---------------------------------------
